@@ -1,0 +1,30 @@
+F:\材料\大三\物流项目\C#\SQL test\SQL test\bin\Debug\SQL test.exe.config
+F:\材料\大三\物流项目\C#\SQL test\SQL test\bin\Debug\SQL test.exe
+F:\材料\大三\物流项目\C#\SQL test\SQL test\bin\Debug\SQL test.pdb
+F:\材料\大三\物流项目\C#\SQL test\SQL test\obj\Debug\SQL test.csprojAssemblyReference.cache
+F:\材料\大三\物流项目\C#\SQL test\SQL test\obj\Debug\SQL_test.Form1.resources
+F:\材料\大三\物流项目\C#\SQL test\SQL test\obj\Debug\SQL_test.Properties.Resources.resources
+F:\材料\大三\物流项目\C#\SQL test\SQL test\obj\Debug\SQL test.csproj.GenerateResource.cache
+F:\材料\大三\物流项目\C#\SQL test\SQL test\obj\Debug\SQL test.csproj.CoreCompileInputs.cache
+F:\材料\大三\物流项目\C#\SQL test\SQL test\obj\Debug\SQL test.exe
+F:\材料\大三\物流项目\C#\SQL test\SQL test\obj\Debug\SQL test.pdb
+F:\材料\大三\物流项目\SQL\SQL test\SQL test\bin\Debug\SQL test.exe.config
+F:\材料\大三\物流项目\SQL\SQL test\SQL test\bin\Debug\SQL test.exe
+F:\材料\大三\物流项目\SQL\SQL test\SQL test\bin\Debug\SQL test.pdb
+F:\材料\大三\物流项目\SQL\SQL test\SQL test\obj\Debug\SQL test.csprojAssemblyReference.cache
+F:\材料\大三\物流项目\SQL\SQL test\SQL test\obj\Debug\SQL_test.Form1.resources
+F:\材料\大三\物流项目\SQL\SQL test\SQL test\obj\Debug\SQL_test.Properties.Resources.resources
+F:\材料\大三\物流项目\SQL\SQL test\SQL test\obj\Debug\SQL test.csproj.GenerateResource.cache
+F:\材料\大三\物流项目\SQL\SQL test\SQL test\obj\Debug\SQL test.csproj.CoreCompileInputs.cache
+F:\材料\大三\物流项目\SQL\SQL test\SQL test\obj\Debug\SQL test.exe
+F:\材料\大三\物流项目\SQL\SQL test\SQL test\obj\Debug\SQL test.pdb
+F:\材料\大三\物流项目\SQL\小车程序\SQL test\bin\Debug\SQL test.exe.config
+F:\材料\大三\物流项目\SQL\小车程序\SQL test\bin\Debug\SQL test.exe
+F:\材料\大三\物流项目\SQL\小车程序\SQL test\bin\Debug\SQL test.pdb
+F:\材料\大三\物流项目\SQL\小车程序\SQL test\obj\Debug\SQL test.csprojAssemblyReference.cache
+F:\材料\大三\物流项目\SQL\小车程序\SQL test\obj\Debug\SQL_test.Form1.resources
+F:\材料\大三\物流项目\SQL\小车程序\SQL test\obj\Debug\SQL_test.Properties.Resources.resources
+F:\材料\大三\物流项目\SQL\小车程序\SQL test\obj\Debug\SQL test.csproj.GenerateResource.cache
+F:\材料\大三\物流项目\SQL\小车程序\SQL test\obj\Debug\SQL test.csproj.CoreCompileInputs.cache
+F:\材料\大三\物流项目\SQL\小车程序\SQL test\obj\Debug\SQL test.exe
+F:\材料\大三\物流项目\SQL\小车程序\SQL test\obj\Debug\SQL test.pdb
